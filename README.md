@@ -69,7 +69,7 @@
 | Win + G | Open Game bar when a game is open |
 | Win + H | Start dictation |
 | Win + I | Open Settings |
-| Win + J | Set focus to a Windows tip when one is available |
+| Win + J | Set focus to a Windows tip when one is available. When a Windows tip appears, bring focus to the Tip. Pressing the keyboard shortcuts again to bring focus to the element on the screen to which the Windows tip is anchored.|
 | Win + K | Open the Connect quick action |
 | Win + L | Lock your PC or switch accounts |
 | Win + M | Minimize all windows |
@@ -111,8 +111,6 @@
 
 \* This shortcut is turned off by default. To turn it on, select Start  > Settings  > Cortana, and turn on the toggle under Let Cortana listen for my commands when I press the Windows logo key + C.
 Cortana is available only in certain countries/regions, and some Cortana features might not be available everywhere. If Cortana isn't available or is turned off, you can still use search.
-
-\*\* When a Windows tip appears, bring focus to the Tip. Pressing the keyboard shortcuts again to bring focus to the element on the screen to which the Windows tip is anchored.
 
 
 #### Command Prompt keyboard shortcuts

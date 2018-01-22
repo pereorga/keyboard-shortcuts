@@ -24,12 +24,14 @@
 | Quit Google Chrome | Ctrl + Shift + q |
 
 
-Google Chrome feature shortcuts
+#### Google Chrome feature shortcuts
+
 | Action | Key |
 | ------ | --- |
 
 
-Address bar shortcuts
+#### Address bar shortcuts
+
 | Action | Key |
 | ------ | --- |
 | Search with your default search engine | Type a search term + Enter |
@@ -41,7 +43,8 @@ Address bar shortcuts
 | Remove predictions from your address bar | Down arrow to highlight + Shift + Delete |
 
 
-Webpage shortcuts
+#### Webpage shortcuts
+
 | Action | Key |
 | ------ | --- |
 | Open options to print the current page | Ctrl + p |
@@ -73,7 +76,7 @@ Webpage shortcuts
 | Open the Home page in the current tab | Alt + Home |
 
 
-Mouse shortcuts
+#### Mouse shortcuts
 | Action | Key |
 | ------ | --- |
 | Open a link in a current tab (mouse only) | Drag a link to a tab |

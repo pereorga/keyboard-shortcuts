@@ -24,5 +24,39 @@
 | Quit Google Chrome | Ctrl + Shift + q |
 
 
+Google Chrome feature shortcuts
+| Action | Key |
+| ------ | --- |
+
+
+Address bar shortcuts
+| Action | Key |
+| ------ | --- |
+
+
+Webpage shortcuts
+| Action | Key |
+| ------ | --- |
+
+
+Mouse shortcuts
+| Action | Key |
+| ------ | --- |
+| Open a link in a current tab (mouse only) | Drag a link to a tab |
+| Open a link in new background tab | Ctrl + Click a link |
+| Open a link, and jump to it | Ctrl + Shift + Click a link |
+| Open a link, and jump to it (mouse only) | Drag a link to a blank area of the tab strip |
+| Open a link in a new window | Shift + Click a link |
+| Open a tab in a new window (mouse only) | Drag the tab out of the tab strip |
+| Move a tab to a current window (mouse only) | Drag the tab into an existing window |
+| Return a tab to its original position | Press Esc while dragging |
+| Save the current webpage as a bookmark | Drag the web address to the Bookmarks Bar |
+| Download the target of a link | Alt + Click a link |
+| Display your browsing history | Right-click Back or Next, or click & hold Back or Next |
+| Switch between maximized and windowed modes | Double-click a blank area of the tab strip |
+| Make everything on the page bigger | Ctrl + Scroll your mousewheel up |
+| Make everything on the page smaller | Ctrl + Scroll your mousewheel down |
+
+
 ## Source
-[Keyboard shortcuts in Windows](https://support.google.com/chrome/answer/157179?hl=en) (google.com)
+[Chrome keyboard shortcuts](https://support.google.com/chrome/answer/157179?hl=en) (google.com)

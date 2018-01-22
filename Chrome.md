@@ -61,7 +61,7 @@
 | Turn full-screen mode on or off | F11 |
 | Make everything on the page bigger | Ctrl and + |
 | Make everything on the page smaller | Ctrl and - |
-| Return everything on the page to default size	Ctrl + 0 |
+| Return everything on the page to default size | Ctrl + 0 |
 | Scroll down a webpage, a screen at a time | Space or PgDn |
 | Scroll up a webpage, a screen at a time | Shift + Space or PgUp |
 | Go to the top of the page | Home |

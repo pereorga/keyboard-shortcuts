@@ -1,4 +1,4 @@
-# Windows 10 Keyboard shortcuts
+# Windows 10 Keyboard Shortcut Cheat Sheet
 
 
 #### Copy, paste, and other general keyboard shortcuts

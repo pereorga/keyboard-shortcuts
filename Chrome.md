@@ -22,11 +22,6 @@
 | Maximize the current window | Alt + Space + x |
 | Close the current window | Alt + F4 |
 | Quit Google Chrome | Ctrl + Shift + q |
-| Ctrl + X | Cut the selected item |
-| Ctrl + C (or Ctrl + Insert) | Copy the selected item |
-| Ctrl + V (or Shift + Insert) | Paste the selected item |
-| Ctrl + Z | Undo an action |
-| Alt + Tab | Switch between open apps |
 
 
 ## Source
